@@ -1,12 +1,12 @@
 ## Git Gutter
 
-Sublime text 2/3  plugin para mostrar un icono en el área dateral la cual indica si una línea se ha insertado, modificado o suprimido.
+Sublime text 2/3  plugin para mostrar un icono en el ï¿½rea lateral la cual indica si una lï¿½nea se ha insertado, modificado o suprimido.
 
 ### Pantalla previa:
 
 ![screenshot](https://raw.github.com/jisaacks/GitGutter/master/screenshot.png)
 
-### Instalación:
+### Instalaciï¿½n:
 
 Puedes visitar la pagina oficial de descarga [Sublime Package Control](http://wbond.net/sublime_packages/package_control)  
 Despues tines que clonar el repositorio dependiendo el sistema que tengas *Sublime Text 2/Packages*
