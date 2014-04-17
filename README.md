@@ -6,7 +6,7 @@ Sublime text 2/3  plugin para mostrar un icono en el area lateral la cual indica
 
 ![screenshot](https://raw.github.com/jisaacks/GitGutter/master/screenshot.png)
 
-### Instalaci�n:
+### Instalación:
 
 Puedes visitar la pagina oficial de descarga [Sublime Package Control](http://wbond.net/sublime_packages/package_control)  
 Despues tines que clonar el repositorio dependiendo el sistema que tengas *Sublime Text 2/Packages*
