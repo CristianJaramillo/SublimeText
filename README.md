@@ -1,6 +1,6 @@
 ## Git Gutter
 
-Sublime text 2/3  plugin para mostrar un icono en el �rea lateral la cual indica si una l�nea se ha insertado, modificado o suprimido.
+Sublime text 2/3  plugin para mostrar un icono en el area lateral la cual indica si una linea se ha insertado, modificado o suprimido.
 
 ### Pantalla previa:
 
